@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-string nama = "ISMA ERU SALSABILA;
+string nama = "ISMA ERU SALSABILA";
 string NPM = "2517051018";
 
 cout << "Selamat Datang Di Praktikum Pengenalan Pemrograman" << endl;
